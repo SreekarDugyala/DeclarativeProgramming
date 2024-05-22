@@ -1,0 +1,51 @@
+# Default ignored files
+
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# Maven specific files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse specific files (if someone uses Eclipse IDE)
+.project
+.classpath
+/.settings/
+
+# NetBeans specific files (if someone uses NetBeans IDE)
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Visual Studio Code specific files
+.vscode/
+
+# IntelliJ IDEA plugin specific directories
+/out/
+
+# Ignore Maven wrapper
+mvnw
+mvnw.cmd
+
+
+/shelf/
+/workspace.xml
